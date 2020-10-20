@@ -1,3 +1,3 @@
 #### Hello You
-##opdrachtgever
-Media College Amsterdam
+## opdrachtgever +
+ Media College Amsterdam
