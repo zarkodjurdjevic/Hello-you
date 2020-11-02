@@ -166,6 +166,85 @@ if antwoord == "B" or antwoord == "b":
     print("Je besluit het vandaag even over te slaan om goede slaap en rust te kunnen pakken.")
     print("je word vaker en je krijgt te horen dat je visum over 20 uur word geaccepteerd je besluit daarom om nog even paar activiteiten te doen en afscheid te nemem")
     print("van de mensen waar je de afgelopen week goed bevriend mee was.")
+print("################################################################################################################################################################")
+print("je loopt naar het kleine kantoortje omdat je visum is geaccepteerd.")
+print("je krijgt daar te horen dat de boot over 2 uur naar Athene vetrekt dus besluiut je, je spullen in te pakken.")
+print("bij vetrek hoort iedereen dat het een krappe en langere reis kan zijn omdat jullie soort van illegaal binnenkomen.")
+print("bij binnenkomst word iedereen doorgeleid naar de plek, veel mensen schrikken ervan van het is best donker en veelste klein voor zoveel mensen")
+print("wat zou jij er in die situatie van vinden.")
+print("A = besluiten de boot te verlaten en in de kamp te blijven")
+print("B = proberen rustig te blijven en de reis goed af te leggen")
+print("C = proberen contact te leggen met mensen om hun en jezelf rustig te houden tijdens de reis")
+antwoord = input()
+if antwoord == "A" or antwoord == "a":
+    print("DIT WAS HET EINDE JE HEBT BESLOTEN NIET TE VLUCHTEN")
+    print("######################")
+    print("#                    #")
+    print("#      THE END       #")
+    print("#                    #")
+    print("######################")
+elif antwoord == "B" or antwoord == "b":
+    print("dat is het verstandigst want er is geen andere keus")
+else:
+    print("dat is het slimst want er is geen andere keus om binnen te komen in de EU dus dan is het, het best om de reis zonder stres af te leggen")
+print("Er kwam na 13 uur reisen een bestuurslid binnen om te vertellen dat we binnen 1 uur aankomen.")
+print("###########################################################################################################################################")
+print("Bij aankomst staat de griekse politie klaar. iedereen stapt uit en word vervolgens opgepakt iedereen begint daarom ook te schreeuwen")
+print("dat ze een visum hebben gekregen in Lesbos. je begint zelf ook te schreeuwen over dat je een visum hebt gekregegen maar de politie doet er niks mee.")
+print("Je schreeuwd de longen uit je lijf. maar je beent uit eindelijk toch in en cel gezet bij aankomst op het bereau dus dan heeft het weinig nut om nog door te gaan.")
+print("De agenten vertelde je dat er deze week naar je zaak word gekeken.")
+print("############################################################################################################################################################")
+print("je maakt kennis met je celgenoot en besluit en gesprek te voeren. het eerste wat de man vertelde was dat hij het zelfde had als jij maar hij zit na 3 maanden nog steeds in de cel")
+print("wat zou je reactie zijn op deze uitspraak")
+print("heel gestrest worden")
+print("proberen rustig te blijven")
+antwoord = input()
+print("of je nou gestrest bent of niet je moet er proberen uit de komen, dus besluit constant te schreeuwen na 1 dag komt er nog steeds geen reactie maar bij de 2e dag komt de regisseur van het bereau en besluit hij je mee te")
+print("nemen naar ze kantoor en hij vraagt je waarom je constant aan het schreeuwen bent, je antwoord met dat iedereen is opgepakt die naar Athene reisde met een geldig visum de regisseur is spraakeloos en ziet dat het en misverstand was")
+print("hij besluit iedereen die is opgepakt die dag vrij te laten en een schadevergoeding te geven van 2000 euro.")
+print("A = blij zijn dat je word vrijgelaten en een bedrag heb gekregen die je kan helpen bij het reizen door Europa")
+print("B = je bent hier heel boos om")
+antwoord = input()
+print("nu je vrij gelaten bent probeer je vervoer te zoeken in Athene om in Nederland te komen. je hebt en grote bus gevonden die je voor 600 euro naar nederland brengt")
+print("met first class stoelen en eten.")
+print("je moet wel opschieten want de bus vetrekt over 50 minuten")
+print("eenmaal in de bus maak je kennis met verschillende mensen van verschillende afkomsten en paar van hun waren ook gevlucht en gaan nu naar nederland zoals jij.")
+print("je hoort heel veel verschillende vlucht verhalen waardoor je, je toch op je gemak voelt dat je niet de enige bent.")
+print("####################################################################################################################################################################")
+print("Na ongeveer 30 uur rijden is de bus aangekomen in Nederland. bij aankomst word de bus opgewacht door de douane en word meegenomen naar en plek waar alle papieren worden gecontroleerd")
+print("Er zijn geen problemen alles is in orde maar voor dat je als nieuwkomer in nederland wilt komen moet je eerst een toelatingstest maken.")
+print("Je hebt de test gemaakt en wordt nu naar de vluchtenlingen verblijf gebracht waarbij je weer je leven kan opbouwen en je met je gezin kan herenigen")
+print("besluit wat jij met je toekomst zou doen")
+print("A = probeer een baan te vinden en geld te verdienen om een huis te kunnen kopen.")
+print("B = jezelf leren programmeren en daar je geld mee proberen te verdienen.")
+print("C = Het huis laten verkopen in Syrie om in Nederland en huis te kunnen kopen.")
+print("D = Leven op een uitkering.")
+antwoord= input()
+
+if antwoord == "A" or antwoord == "a":
+    print("Je hebt een baan gevonden en hebt een mooie huis en auto kunnen kopen.")
+    
+if antwoord == "B" or antwoord == "b":
+    print("Na ongeveer 8 maanden te leren coderen ben je gevraagd om bij een van de grootste media developer bedrijven te werken en een vast contract te tekenen van 5 jaar.")
+
+elif antwoord == "C" or antwoord == "c":
+    print("Na je huis te hebben verkocht in Syrie, heb je in enschede en woning gekocht waar jij en je gezin veilig hun leven kunnen voortzetten.")
+
+else:
+    print("Je blijft met je gezin verblijven in het vluchtenlingen verblijf en leeft op uitkering ")
+
+
+
+
+
+
+
+
+
+
+    
+
+
 
     
 
